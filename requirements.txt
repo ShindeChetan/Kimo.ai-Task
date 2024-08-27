@@ -1,0 +1,6 @@
+fastapi==0.103.1
+uvicorn==0.22.0
+motor==3.1.1
+pymongo
+pydantic==2.3.0
+pytest==7.4.2
